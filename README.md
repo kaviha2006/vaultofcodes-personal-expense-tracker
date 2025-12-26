@@ -3,7 +3,7 @@
 ## Project Description
 description: >
 This project implements a Personal Expense Tracker using Python as part of
-the Vault of Codes Internship (Assignment A2). The application allows users
+the Vault of Codes Internship (Assignment A3). The application allows users
 to record daily expenses, manage monthly income, and analyze total spending
 through a menu-driven command-line interface. Expense data is stored
 permanently using JSON file handling, enabling users to track their
